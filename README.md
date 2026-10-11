@@ -1,42 +1,58 @@
-### Hi, I'm Lucas a Software Engineer and a UI and UX Developer! 👋🏻
+# Hi, I'm Lucas Domingos Ramos 👋
 
-- 🔭 I’m currently working on Talking About Korea.
-- 🌱 I’m currently a Senior Wordpress Developer purpose and I really enjoy front-end and behavioral analytics.
-- 👯 I’m looking to collaborate on projects that can help people in some way.
-- 💬 Ask me about anything!
-- 📫 How to reach me: lucasniix@gmail.com
-- ⚡ Fun fact: I`m a FPS player.
+### Senior Software Engineer · Web Development & UI/UX
 
-<div align="left">
-  <a href="https://github.com/lucasnix">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lucasnix&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnix&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="lucas-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="lucas-wp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="lucas-woo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg">
-  <img align="center" alt="lucas-IL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
-  <img align="center" alt="lucas-PS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="lucas-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="lucas-hotjar" height="30" width="40" src="https://raw.githubusercontent.com/lucasnix/lucasnix/main/hotjar.svg">
-  
-  
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/nixlucas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucasniix@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-ramos-8187b433/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![snake-animation](https://github.com/lucasnix/lucasnix/blob/output/github-contribution-grid-snake.svg)
+I build web applications and digital experiences for businesses,
+combining software development, interface design and practical
+business needs.
 
-</div>
+My work spans React, TypeScript, Supabase and WordPress — from
+public websites to client portals and administrative tools.
+
+Based in Punta Cana, Dominican Republic.
+
+## Featured project — Clic Pic Web
+
+A multilingual digital agency website with a client portal
+and lead management tools.
+
+- **Client portal:** project stages, scope and payment records.
+- **Administration:** project management and customer information.
+- **Lead management:** consultation requests, campaign attribution,
+  qualification and sales follow-up.
+- **Access control:** Supabase authentication and database policies.
+- **SEO:** prerendered pages, language-specific metadata and sitemap.
+- **Delivery:** automated deployment through GitHub Actions and SSH.
+
+**Stack:** React · TypeScript · Vite · Supabase · GitHub Actions
+
+[Explore Clic Pic Web →](https://web.clicpic.co/)
+
+## Technologies & tools
+
+<p>
+  <img alt="React" title="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="TypeScript" title="TypeScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="JavaScript" title="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="HTML5" title="HTML5" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" title="CSS3" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="PHP" title="PHP" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="WordPress" title="WordPress" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+  <img alt="WooCommerce" title="WooCommerce" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg">
+  <img alt="Figma" title="Figma" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</p>
+
+## What I focus on
+
+- Responsive interfaces and clear user journeys.
+- Maintainable applications and database access controls.
+- Website performance and technical SEO.
+- Turning business requirements into working software.
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ramos-8187b433/)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasniix@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nixlucas)
+
+Outside of work, I enjoy FPS games. 🎮
