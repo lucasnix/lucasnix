@@ -1,4 +1,4 @@
-# Hi, I'm Lucas Domingos Ramos 👋
+# Hi, I'm Lucas 👋
 
 ### Senior Software Engineer · Web Development & UI/UX
 
